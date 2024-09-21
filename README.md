@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ### Running the Analysis
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Chandrikapeela/Analysis-of-covid-19-.git
    cd Covid-19-Data-Analysis-Project
    ```
 2. Open the Jupyter Notebook:
